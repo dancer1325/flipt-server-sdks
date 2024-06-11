@@ -1,0 +1,5 @@
+## Get
+GET {{HOST}}
+Content-Type: application/json
+
+## TODO: Fix it. It does NOT work
