@@ -19,3 +19,4 @@ Cargo.lock
 /flipt-python/.mypy_cache/
 /flipt-python/.pytest_cache/
 /flipt-python/.ruff_cache/
+/.idea/
